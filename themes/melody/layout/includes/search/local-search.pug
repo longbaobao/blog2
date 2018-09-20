@@ -1,0 +1,15 @@
+#local-search.search-dialog
+  #local-search-title.search-dialog__title Local Search
+  #local-input-panel
+    #local-search-input
+      .local-search-box
+        input(placeholder=theme.local_search.labels.input_placeholder).local-search-box--input
+  hr
+  #local-search-results
+    #local-hits
+    #local-stats
+      hr.local-search-stats__hr
+      | Powered by #[span(style="color: #49B1F5")= 'hexo-generator-search']
+  span.search-close-button
+    i.fa.fa-times
+.search-mask

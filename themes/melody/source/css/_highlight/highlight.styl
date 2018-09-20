@@ -1,0 +1,176 @@
+// https://github.com/chriskempson/tomorrow-theme
+@require 'theme'
+@require 'diff'
+
+// Placeholder: $code-block
+$code-block
+  overflow: auto
+  margin: 1rem 0
+  padding: 0
+  background: $highlight-background
+  color: $highlight-foreground
+  font-size: $code-font-size
+  line-height: $line-height-code-block
+
+figure.highlight
+  position: relative
+
+blockquote
+  margin: 0
+  padding: 0 0.6rem
+  border-left: 0.2rem solid $blockquote-padding-color
+  color: $blockquote-color
+
+pre,
+code
+  font-family: $code-font !important
+
+code
+  padding: 0.1rem 0.2rem
+  background: $code-background
+  color: $code-foreground
+  word-wrap: break-word
+  font-size: $code-font-size
+
+pre
+  @extend $code-block
+
+  code
+    padding: 0
+    background: none
+    color: $highlight-foreground
+    text-shadow: none
+
+.highlight
+  @extend $code-block
+  border-radius: 1px
+
+  pre
+    margin: 0
+    padding: 8px 0
+    border: none
+
+  table
+    margin: 0
+    width: auto
+    border: none
+
+  td
+    padding: 0
+    border: none
+
+  figcaption
+    clearfix()
+    margin-bottom: 1em
+    color: $highlight-foreground
+    font-size: 1em
+    line-height: 1em
+
+    a
+      float: right
+      color: $highlight-foreground
+
+      &:hover
+        border-bottom-color: $highlight-foreground
+
+  .gutter pre
+    padding-right: 0.5rem
+    padding-left: 0.5rem
+    background-color: $highlight-gutter.bg-color
+    color: $highlight-gutter.color
+    text-align: right
+
+  .code pre
+    padding-right: 0.5rem
+    padding-left: 0.5rem
+    width: 100%
+    background-color: $highlight-background
+
+  .line
+    height: 1rem
+
+.gutter
+  -webkit-user-select: none
+  -moz-user-select: none
+  -ms-user-select: none
+  user-select: none
+
+.gist table
+  width: auto
+
+  td
+    border: none
+
+// For diff highlight
+pre .deletion
+  background: $highlight-deletion
+
+pre .addition
+  background: $highlight-addition
+
+pre .meta
+  color: $highlight-purple
+
+pre
+  .comment
+    color: $highlight-comment
+
+  .variable,
+  .attribute,
+  .regexp,
+  .ruby .constant,
+  .xml .tag .title,
+  .xml .pi,
+  .xml .doctype,
+  .html .doctype,
+  .css .id,
+  .tag .name,
+  .css .class,
+  .css .pseudo
+    color: $highlight-red
+
+  .tag
+    color: $highlight-aqua
+
+  .number,
+  .preprocessor,
+  .literal,
+  .params,
+  .constant,
+  .command
+    color: $highlight-orange
+
+  .built_in
+    color: $highlight-yellow
+
+  .ruby .class .title,
+  .css .rules .attribute,
+  .string,
+  .value,
+  .inheritance,
+  .header,
+  .ruby .symbol,
+  .xml .cdata,
+  .special,
+  .number,
+  .formula
+    color: $highlight-green
+
+  .keyword,
+  .title,
+  .css .hexcolor
+    color: $highlight-aqua
+
+  .function,
+  .python .decorator,
+  .python .title,
+  .ruby .function .title,
+  .ruby .title .keyword,
+  .perl .sub,
+  .javascript .title,
+  .coffeescript .title
+    color: $highlight-blue
+
+  .tag .attr,
+  .javascript .function
+    color: $highlight-purple

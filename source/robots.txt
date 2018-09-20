@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /about/
+Allow: /tags/
+Allow: /page/
+Allow: /resources/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /lib/
+
+Sitemap: https://www.jucaizhan.com/sitemap.xml
+Sitemap: https://www.jucaizhan.com/baidusitemap.xml
