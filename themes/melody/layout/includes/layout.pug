@@ -29,7 +29,11 @@ html(lang=config.language)
     meta(name="keywords" content=pageKeywords)
     meta(name="author" content=pageAuthor)
     meta(name="copyright" content=pageCopyright)
-    title= pageTitle
+    if theme.social.rss !== undefined
+      link(rel="alternate" href=url_for(theme.social.rss) title=config.title type="application/atom+xml")
+    if page.excerpt !== undefined
+      meta(name="description" content=page.excerpt)
+    title= pageTitle + '_' + pageKeywords
     !=favicon_tag(config.favicon || theme.favicon || '/favicon.ico')
     if theme.stylesheets !== undefined && theme.stylesheets.length > 0
       each url in theme.stylesheets
