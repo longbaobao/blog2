@@ -8,6 +8,8 @@ tags:
   - Android
   - 直播
   - 慕课网
+  - 2017
+  - 互动直播APP
 categories:
   - 移动开发
 keywords: Android互动直播APP开发
