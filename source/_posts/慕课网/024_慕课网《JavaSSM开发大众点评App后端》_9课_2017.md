@@ -112,7 +112,7 @@ IT段子手详解MyBatis遇到Spring 秒学Java SSM开发大众点评
 本课程已完结
 
 
-<blockquote class="blockquote-center">声明：此资源由下载街博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
 
 <div id="jspay" sid="RiWPfN91444" style="display:none">RiWPfN91444</div>
 <script type="text/javascript" src="https://www.fageka.com/j.js"></script>

@@ -146,7 +146,7 @@ keywords: BAT大牛亲授_基于ElasticSearch的搜房网实战
 14-1 课程总结
 本课程已完结
 
-<blockquote class="blockquote-center">声明：此资源由下载街博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
 
 <div id="jspay" sid="7DjJfkH0848" style="display:none">7DjJfkH0848</div>
 <script type="text/javascript" src="https://www.fageka.com/j.js"></script>

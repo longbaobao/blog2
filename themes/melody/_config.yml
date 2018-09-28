@@ -5,7 +5,7 @@ language:
 # Main menu navigation
 # ---------------
 menu:
-  个人主页: /
+  主页: /
   文章总览: /archives
   关于我们: /about
   个人相册: /gallery
@@ -33,7 +33,7 @@ highlight_theme: default
 # ---------------
 social:
   #icon_name: url
-  email: 908934816@qq.com
+  telegram: https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=908934816@qq.com
   rss: /atom.xml
 
 
@@ -239,3 +239,6 @@ busuanzi:
 #links_title: Links
 #links:
   #Name: url
+
+meiqia:
+   enable: true

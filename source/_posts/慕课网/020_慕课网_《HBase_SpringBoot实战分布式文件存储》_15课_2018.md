@@ -129,7 +129,7 @@ Hos服务SDK模块开发及测试
 15-1 课程总结
 本课程已完结
 
-<blockquote class="blockquote-center">声明：此资源由下载街博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
 
 <div id="jspay" sid="HxNS01A0954" style="display:none">HxNS01A0954</div>
 <script type="text/javascript" src="https://www.fageka.com/j.js"></script>
