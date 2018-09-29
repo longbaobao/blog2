@@ -426,6 +426,6 @@ Kali Linux预装了许多渗透测试软件，包括nmap (端口扫描器)、Wir
 试看 课时 177 : 活取证和死取证
 02:06:42
 
-> 链接：https://pan.baidu.com/s/1NcywKGDHE096B9wtrsG67Q 密码：q2uj
+> 链接：https://pan.baidu.com/s/1NcywKGDHE096B9wtrsG67Q  密码：q2uj
 
 <blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
