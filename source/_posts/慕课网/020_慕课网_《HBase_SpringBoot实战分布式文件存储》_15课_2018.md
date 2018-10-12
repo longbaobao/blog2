@@ -7,9 +7,9 @@ tags:
   - 慕课网
   - 2018
   - HBase
-  - 大数据
+  - 云计算&大数据
 categories:
-  - 大数据
+  - 云计算&大数据
 keywords: HBase+SpringBoot实战分布式文件存储
 ---
 ![image](http://szimg.mukewang.com/5acc60d80001ef7605400300-360-202.jpg)

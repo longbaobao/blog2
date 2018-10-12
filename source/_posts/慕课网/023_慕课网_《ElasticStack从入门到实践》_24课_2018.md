@@ -2,12 +2,12 @@
 title: ElasticStack从入门到实践
 date: 2018-09-22 17:30:28
 tags:
-  - 大数据
+  - 云计算&大数据
   - 慕课网
   - 2017
   - ElasticStack
 categories:
-  - 大数据
+  - 云计算&大数据
 keywords: ElasticStack从入门到实践
 ---
 ![image](https://img.mukewang.com/szimg/5a7441e30001d4f805400300-360-202.jpg)

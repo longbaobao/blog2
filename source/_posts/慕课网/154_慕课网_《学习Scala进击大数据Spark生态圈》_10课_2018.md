@@ -2,13 +2,13 @@
 title: 学习Scala 进击大数据Spark生态圈
 date: 2018-09-30 13:41:21
 tags:
-  - 大数据
+  - 云计算&大数据
   - 慕课网
   - 2018
   - Scala
   - Spark
 categories:
-  - 大数据
+  - 云计算&大数据
 keywords: 学习Scala 进击大数据Spark生态圈
 ---
 ![image](https://szimg.mukewang.com/5af17d9500011dc105400300-360-202.jpg)

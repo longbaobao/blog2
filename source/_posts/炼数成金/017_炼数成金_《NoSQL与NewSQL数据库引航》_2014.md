@@ -5,10 +5,10 @@ date: 2018-09-29 12:34:13
 tags:
   - NoSQL
   - 2014
-  - 大数据
+  - 云计算&大数据
   - 炼数成金
 categories:
-  - 大数据
+  - 云计算&大数据
 keywords:  NoSQL与NewSQL数据库引航
 ---
 课程简介：
