@@ -1,16 +1,16 @@
 ---
-layout: 前端开发
-title: 最受欢迎的react框架【爱前端】
-date: 2018-09-29 13:59:13
+layout: 大前端研发攻城狮
+title: 爱前端《最受欢迎的react框架【爱前端】》2017
+date: 2019-06-30 20:58:13
 tags:
-  - 前端开发
+  - 大前端
   - React
-  - 2017
   - 爱前端
   - 腾讯课堂
+  - 综合
 categories:
-  - 前端开发开发
-keywords: 最受欢迎的react框架【爱前端】
+  - 大前端研发攻城狮
+keywords: 爱前端《最受欢迎的react框架【爱前端】》2017
 ---
 ![image](https://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLBJyCB6b1Z5Nr91P5TDLP627icGcCCetLibeWKocF7dGOP5p3hQJD88MhbyELfrEv0Y8/356)
 
@@ -151,8 +151,17 @@ React 能做什么呢，能做这么多  1、Web    2、Native   3、TV  4、Des
             04_表格自定义列
             05_nodejs接口书写
             06_nodejs接口书写
-            07_gulp工程化\
+            07_gulp工程化
 
-> 链接：链接：https://pan.baidu.com/s/12Y5Lf0KYjm23n6yEyGkZgA 密码：14ty
+<div class="post-copyright">
+    <div class="post-copyright__author">
+      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span>
+    </div>
+</div>
 
-<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+<blockquote class="blockquote-center">
+链接：https://pan.baidu.com/s/12Y5Lf0KYjm23n6yEyGkZgA 
+提取码：14ty 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+</blockquote>
+
