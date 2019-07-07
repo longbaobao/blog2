@@ -1,0 +1,54 @@
+---
+layout: 后端研发攻城狮-Java
+title: 网易云课堂《漫谈spring cloud分布式服务架构》2019
+date: 2019-07-08 21:53:13
+tags:
+  - Java
+  - 后端研发
+  - SpringCloud
+  - 微服务
+categories:
+  - 后端研发攻城狮-Java
+keywords: 网易云课堂《漫谈spring cloud分布式服务架构》2019
+---
+       
+『课程目录』:         
+01-Linux基础.rar
+02-大数据课程概述与大数据背景知识.rar
+03-搭建Hadoop的环境.rar
+04-Hadoop的体系结构.rar
+04-HDFS上传与下载的原理.rar
+04-操作HDFS.rar
+05-HDFS的底层原理：代理对象和RPC.rar
+05-MapReduce基础.rar
+05-Mapreduce的高级功能.rar
+05-MapReduce编程案例1.rar
+<!-- more -->   
+05-MapReduce编程案例2.rar
+06-HBase基础.rar
+06-HBase进阶.rar
+07-Hive.rar
+07-Sqoop和Flume.rar
+08和09-HUE和ZooKeeper.rar
+10-11-12-MemCached.rar
+10-HDFS的联盟和HA.rar
+12-13-Redis.rar
+13-14-Storm基础.rar
+14-15-集成Storm.rar
+14-Storm进阶.rar
+15-20 Scala编程语言.rar
+20-22 spark内存处理架构.rar
+22-kafka消息队列.rar
+
+<div class="post-copyright">
+    <div class="post-copyright__author">
+      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span>
+    </div>
+</div>
+
+<blockquote class="blockquote-center">
+链接：https://pan.baidu.com/s/1k7vLksYo4JVW5OReVJjDLg 
+提取码：sneh 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+</blockquote>
+
