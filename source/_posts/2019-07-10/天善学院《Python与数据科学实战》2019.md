@@ -1,14 +1,15 @@
 ---
 layout: 人工智能研发攻城狮
-title: Python数据科学精华实战课程
+title: 天善学院《Python与数据科学实战》2019
 date: 2019-07-09 14:58:13
 tags:
   - Python
   - 人工智能
   - 机器学习
+  - 天善学院
 categories:
   - 人工智能研发攻城狮
-keywords: Python数据科学精华实战课程
+keywords: 天善学院《Python与数据科学实战》2019
 ---
 
 『课程目录』: 
@@ -125,8 +126,8 @@ keywords: Python数据科学精华实战课程
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1bdVpey-KMbpRdcmczWXXYw 
-提取码：ta1j 
+链接：https://pan.baidu.com/s/1PkISZNV8QY1MnpVTPzmp1Q 
+提取码：yyi8 
 复制这段内容后打开百度网盘手机App，操作更方便哦
 </blockquote>
 

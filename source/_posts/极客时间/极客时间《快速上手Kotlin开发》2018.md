@@ -1,14 +1,14 @@
 ---
-layout: 移动开发
-title: 快速上手Kotlin开发
+layout: 移动研发攻城狮
+title: 极客时间《快速上手Kotlin开发》2018
 date: 2019-02-26 16:12:13
 tags:
-  - 后端开发
+  - 移动研发
   - Kotlin
   - 极客时间
 categories:
   - 移动开发
-keywords: 快速上手Kotlin开发
+keywords: 极客时间《快速上手Kotlin开发》2018
 ---
 <div class="text" style=""><h2>课程背景</h2>
 <p>在 Google I/O 2017 大会上，Google 宣布 Kotlin 成为 Android 开发的官方编程语言。</p>

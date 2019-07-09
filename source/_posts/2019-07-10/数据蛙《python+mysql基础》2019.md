@@ -1,13 +1,13 @@
 ---
 layout: Python研发攻城狮
-title: python+mysql基础
+title: 数据蛙《python+mysql基础》2019
 date: 2019-07-09 14:55:13
 tags:
   - Python
   - 基础
 categories:
   - Python研发攻城狮
-keywords: python+mysql基础
+keywords: 数据蛙《python+mysql基础》2019
 ---
 『课程目录』: 
 ├─第一部分 mysql数据库
@@ -146,8 +146,8 @@ keywords: python+mysql基础
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1bdVpey-KMbpRdcmczWXXYw 
-提取码：ta1j 
+链接：https://pan.baidu.com/s/1viQYFIOZ1ANlrHXGkasRJw 
+提取码：f14h 
 复制这段内容后打开百度网盘手机App，操作更方便哦
 </blockquote>
 

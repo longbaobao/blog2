@@ -1,13 +1,14 @@
 ---
 layout: 大数据研发攻城狮
-title: neter玩转Zookeeper 3.4.10 分布式协调服务框架
+title: 一线码农工作室《玩转Zookeeper 3.4.10 分布式协调服务框架》2017
 date: 2019-07-09 14:57:13
 tags:
   - 大数据
   - Zookeeper
+  - 一线码农工作室
 categories:
   - 大数据研发攻城狮
-keywords: neter玩转Zookeeper 3.4.10 分布式协调服务框架
+keywords: 一线码农工作室《玩转Zookeeper 3.4.10 分布式协调服务框架》2017
 ---
 『课程目录』: 
 01.zookeeper基础概念之理解观察者模式和应用场景介绍
@@ -38,8 +39,8 @@ keywords: neter玩转Zookeeper 3.4.10 分布式协调服务框架
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1bdVpey-KMbpRdcmczWXXYw 
-提取码：ta1j 
+链接：https://pan.baidu.com/s/1f00mXxgRyqkGgD9EXxj2_Q 
+提取码：apop 
 复制这段内容后打开百度网盘手机App，操作更方便哦
 </blockquote>
 

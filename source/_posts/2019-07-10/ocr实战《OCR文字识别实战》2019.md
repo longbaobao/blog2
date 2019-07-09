@@ -1,6 +1,6 @@
 ---
 layout: 人工智能研发攻城狮
-title: OCR文字识别实战
+title: ocr实战《OCR文字识别实战》2019
 date: 2019-07-09 14:53:13
 tags:
   - 人工智能
@@ -9,7 +9,7 @@ tags:
   - OCR文字识别
 categories:
   - 人工智能研发攻城狮
-keywords: OCR文字识别实战
+keywords: ocr实战《OCR文字识别实战》2019
 ---
 『课程目录』: 
 00.CNN预习视频：卷积神经网络与计算机视觉 
@@ -28,8 +28,8 @@ keywords: OCR文字识别实战
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1bdVpey-KMbpRdcmczWXXYw 
-提取码：ta1j 
+链接：https://pan.baidu.com/s/1P-dsEoikOQitBRvHNmjPpw 
+提取码：wbig 
 复制这段内容后打开百度网盘手机App，操作更方便哦
 </blockquote>
 
