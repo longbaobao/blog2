@@ -1,6 +1,6 @@
 ---
-layout: 51CTO学院《Shell高级脚本自动化编程实战》2019
-title: 运维研发攻城狮
+layout: 运维研发攻城狮
+title: 51CTO学院《Shell高级脚本自动化编程实战》2019
 date: 2019-07-11 22:40:13
 tags:
   - 运维
