@@ -1,13 +1,12 @@
 ---
 title: Python3数据科学入门与实战
-date: 2018-10-11 16:57:21
+date: 2019-07-11 17:57:21
 tags:
   - 数据分析
   - 慕课网
-  - 2018
   - Python
 categories:
-  - 数据分析
+  - 数据分析攻城狮
 keywords: Python3数据科学入门与实战
 ---
 ![image](//szimg.mukewang.com/5a097bde00019ed605400300-360-202.jpg)
@@ -100,9 +99,13 @@ Seaborn是对Matplotlib的进一步封装，其强大的调色功能和内置的
 8-1 总结
 本课程已完结
 
-<blockquote class="blockquote-center">声明：此资源由巨菜站博客 收集整理于网络，如有侵权，请联系巨菜站删除处理。</blockquote>
+<div class="post-copyright">
+    <div class="post-copyright__author">
+      <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span>
+    </div>
+</div>
 
-<div id="jspay" sid="WkeA9Hk2217" style="display:none">WkeA9Hk2217</div>
-<script type="text/javascript" src="https://www.fageka.com/j.js"></script>
-<script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>
+<blockquote class="blockquote-center">
+
+</blockquote>
             
