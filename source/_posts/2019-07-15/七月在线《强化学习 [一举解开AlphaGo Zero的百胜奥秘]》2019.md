@@ -1,27 +1,24 @@
 ---
 layout: 人工智能研发攻城狮
-title: TensorFlow框架案例实战
-date: 2019-07-04 21:32:13
+title: 七月在线《强化学习 [一举解开AlphaGo Zero的百胜奥秘]》2019
+date: 2019-07-15 20:45:13
 tags:
   - 人工智能
-  - 深度学习
-  - TensorFlow
+  - 强化学习
+  - 七月在线
 categories:
   - 人工智能研发攻城狮
-keywords: TensorFlow框架案例实战
+keywords: 七月在线《强化学习 [一举解开AlphaGo Zero的百胜奥秘]》2019
 ---
 
-『课程目录』: 
-第1课 Tensorflow基础.mp4
-第2课 详解深度神经网络案例.mp4
-第3课 卷积神经网络与图像应用.mp4
-第4课 海量图像训练预处理.mp4
+『课程目录』:  
+第1课 强化学习RL简介.mp4
+第2课 Model—Free Learning.mp4
+第3课 Model-Free Control.mp4
 <!-- more -->  
-第5课 循环神经网络与应用.mp4
-第6课 Tensorboard工具与模型优化.mp4
-第7课 Tensorflow应用案例.mp4
-第8课 Tensorflow之上的工具库.mp4
-
+第4课 Q-Learning.mp4
+第5课 策略梯度学习.mp4
+第6课 TensorFlow强化学习应用案例.mp4
 <div class="post-copyright">
     <div class="post-copyright__author">
       <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span>
@@ -29,8 +26,8 @@ keywords: TensorFlow框架案例实战
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1V6N01sU6WbF1zbEc4a2pmg 
-提取码：j9po 
+链接：https://pan.baidu.com/s/12xpiDrukvmHjjgWsZtBQlg 
+提取码：y173 
 复制这段内容后打开百度网盘手机App，操作更方便哦
 </blockquote>
 
