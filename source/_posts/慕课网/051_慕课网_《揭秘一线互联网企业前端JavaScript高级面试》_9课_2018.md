@@ -5,7 +5,7 @@ tags:
   - 前端开发
   - 慕课网
   - 2018
-  - JavaScript
+  - Java研发Script
   - 面试
 categories:
   - 移动开发

@@ -3,7 +3,7 @@ layout: 后端研发攻城狮-Java
 title: 课工场《Spring Cloud 微服务分布式架构项目开发实战大型商城项目》2019
 date: 2019-07-14 21:40:13
 tags:
-  - Java
+  - Java研发
   - 后端研发
   - SpringCloud
   - 微服务

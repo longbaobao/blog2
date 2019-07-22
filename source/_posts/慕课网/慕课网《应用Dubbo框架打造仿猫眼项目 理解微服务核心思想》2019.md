@@ -9,7 +9,7 @@ tags:
   - 仿猫眼
   - 项目实战
   - 后端研发
-  - Java
+  - Java研发
 categories:
   - 后端研发攻城狮-Java
 keywords: 慕课网《应用Dubbo框架打造仿猫眼项目 理解微服务核心思想》2019

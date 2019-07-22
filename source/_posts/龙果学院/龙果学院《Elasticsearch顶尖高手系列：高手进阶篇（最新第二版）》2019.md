@@ -4,7 +4,7 @@ title: 龙果学院《Elasticsearch顶尖高手系列：高手进阶篇（最新
 tags:
   - 大数据
   - 龙果学院
-  - Java
+  - Java研发
   - Elasticsearch
 categories:
   - 大数据研发攻城狮

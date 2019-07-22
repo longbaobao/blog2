@@ -3,7 +3,7 @@ layout: 后端研发攻城狮-Java
 title: jsp+ssm+mysql开发进销存管理系统实战
 date: 2019-06-29 20:27:13
 tags:
-  - Java
+  - Java研发
   - ssm
   - 进销存管理系统
   - 项目实战

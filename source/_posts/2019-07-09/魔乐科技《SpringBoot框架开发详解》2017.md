@@ -3,7 +3,7 @@ layout: 后端研发攻城狮-Java
 title: 魔乐科技《SpringBoot框架开发详解》2017
 date: 2019-07-09 20:50:13
 tags:
-  - Java
+  - Java研发
   - 后端研发
   - SpringBoot
   - 魔乐科技

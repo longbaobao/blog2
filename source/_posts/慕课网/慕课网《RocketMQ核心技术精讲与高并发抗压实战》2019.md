@@ -3,7 +3,7 @@ layout: 后端研发攻城狮-Java
 title:  慕课网《RocketMQ核心技术精讲与高并发抗压实战》2019
 date: 2019-07-18 20:48:13
 tags:
-  - Java
+  - Java研发
   - 后端研发
   - RocketMQ
   - 消息队列
@@ -188,8 +188,8 @@ keywords: 慕课网《RocketMQ核心技术精讲与高并发抗压实战》2019
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1GxO5OZ25NWhgVL_wBVL9Dw 
-提取码：7gkt 
+链接：https://pan.baidu.com/s/1NO7Y6xXthpRQnJjrbol69A 
+提取码：811u 
 复制这段内容后打开百度网盘手机App，操作更方便哦
 </blockquote>
 

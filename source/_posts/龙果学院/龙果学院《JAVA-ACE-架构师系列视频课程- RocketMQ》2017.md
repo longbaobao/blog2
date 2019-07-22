@@ -5,7 +5,7 @@ date: 2019-07-09 18:06:13
 tags:
   - 后端研发
   - 龙果学院
-  - Java
+  - Java研发
   - RocketMQ
   - 消息队列
 categories:

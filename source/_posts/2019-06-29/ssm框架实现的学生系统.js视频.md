@@ -3,7 +3,7 @@ layout: 后端研发攻城狮-Java
 title: ssm框架实现的学生系统
 date: 2019-06-29 20:28:13
 tags:
-  - Java
+  - Java研发
   - ssm
   - 学生管理系统
   - 项目实战

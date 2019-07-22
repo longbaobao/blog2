@@ -8,7 +8,7 @@ tags:
   - Activiti6.0
   - 慕课网
   - 2018
-  - java
+  - Java研发
 categories:
   - 后端开发
 keywords: Activiti6.0工作流引擎深度解析与实战

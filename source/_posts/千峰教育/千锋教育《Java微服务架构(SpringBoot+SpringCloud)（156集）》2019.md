@@ -3,7 +3,7 @@ layout: 后端研发攻城狮-Java
 title: 千锋教育《Java微服务架构(SpringBoot+SpringCloud)（156集）》2019
 date: 2019-06-30 23:56:13
 tags:
-  - Java
+  - Java研发
   - 微服务
   - SpringCloud
   - SpringBoot

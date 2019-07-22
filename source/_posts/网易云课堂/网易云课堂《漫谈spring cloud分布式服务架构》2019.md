@@ -3,7 +3,7 @@ layout: 后端研发攻城狮-Java
 title: 网易云课堂《漫谈spring cloud分布式服务架构》2019
 date: 2019-07-08 21:53:13
 tags:
-  - Java
+  - Java研发
   - 后端研发
   - SpringCloud
   - 微服务

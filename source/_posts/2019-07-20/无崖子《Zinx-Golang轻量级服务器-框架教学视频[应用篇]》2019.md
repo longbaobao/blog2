@@ -1,13 +1,13 @@
 ---
 layout: 后端研发攻城狮-Go
-title: Zinx-Golang轻量级服务器-框架教学视频[应用篇]
-date: 2019-06-29 20:35:13
+title: 无崖子《Zinx-Golang轻量级服务器-框架教学视频[应用篇]》2019
+date: 2019-07-20 20:35:13
 tags:
   - Go
   - Zinx
 categories:
   - 后端研发攻城狮-Go
-keywords: Zinx-Golang轻量级服务器-框架教学视频[应用篇]
+keywords: 无崖子《Zinx-Golang轻量级服务器-框架教学视频[应用篇]》2019
 ---
 『课程目录』:   
 048-Zinx服务器应用-MMO游戏-整体结构介绍
@@ -63,7 +63,7 @@ keywords: Zinx-Golang轻量级服务器-框架教学视频[应用篇]
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1izXJpFoJS5xNi1N0alk2Dw
-提取码：vm1i
+链接：https://pan.baidu.com/s/1qi5MRKWpx84GZIAsNNbLgQ 
+提取码：7bz6 
 复制这段内容后打开百度网盘手机App，操作更方便哦
 </blockquote>

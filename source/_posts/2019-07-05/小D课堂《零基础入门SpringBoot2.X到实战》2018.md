@@ -3,7 +3,7 @@ layout: 后端研发攻城狮-Java
 title: 小D课堂《零基础入门SpringBoot2.X到实战》2018
 date: 2019-07-05 21:37:13
 tags:
-  - Java
+  - Java研发
   - 后端研发
   - SpringBoot
   - SpringBoot2.X
