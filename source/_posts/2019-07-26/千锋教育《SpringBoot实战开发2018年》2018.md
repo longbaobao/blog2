@@ -80,8 +80,6 @@ keywords: 千锋教育《SpringBoot实战开发2018年》2018
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1WQTbP-BYekyp0-Zyc8ehuw 
-提取码：m59k 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+![image](http://qr.liantu.com/api.php?&w=180&text=https://www.510ka.com/details/8A1A30EE)
 </blockquote>
 

@@ -66,8 +66,6 @@ keywords: 尚硅谷《大数据项目之Flink理论及项目》2019
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1AsseUrf0YUK_ZYGJTZ-Dmw 
-提取码：qwdz 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+![image](http://qr.liantu.com/api.php?&w=180&text=https://www.510ka.com/details/1F7A8F09)
 </blockquote>
 

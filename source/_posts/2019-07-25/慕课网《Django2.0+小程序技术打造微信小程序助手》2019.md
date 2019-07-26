@@ -118,8 +118,6 @@ BAT大牛亲授，从零到一的完整项目开发实战过程，项目开发�
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1njgu4B2ZCYIiwuKObb69zg 
-提取码：n6yl 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+![image](http://qr.liantu.com/api.php?&w=180&text=https://www.510ka.com/details/F9155C44)
 </blockquote>
             
