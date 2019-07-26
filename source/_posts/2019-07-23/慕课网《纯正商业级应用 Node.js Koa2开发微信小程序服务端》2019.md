@@ -173,8 +173,6 @@ Koa本身是不提供校验器的，第三方插件也没有。那么我们只�
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1wtB-2Mm4XmyWBeehABSSdA 
-提取码：p69a 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+![image](http://qr.liantu.com/api.php?&w=180&text=https://www.510ka.com/details/EB6457EC)
 </blockquote>
 

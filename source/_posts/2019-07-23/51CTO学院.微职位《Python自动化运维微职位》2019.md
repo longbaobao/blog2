@@ -42,8 +42,6 @@ keywords: 51CTO学院.微职位《Python自动化运维微职位》2019
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1UbacXxRBnzVZ-R_5305IMQ 
-提取码：redc 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+![image](http://qr.liantu.com/api.php?&w=180&text=https://www.510ka.com/details/FF403EB7)
 </blockquote>
 

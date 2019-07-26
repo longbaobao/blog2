@@ -49,6 +49,8 @@ keywords: 泰州在线《Unity3d 动作游戏全攻略》2014
 </div>
 
 <blockquote class="blockquote-center">
-
+链接：https://pan.baidu.com/s/1ltzz-XC1jwZxaUTFXZU4Lw 
+提取码：c8rg 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 </blockquote>
 
