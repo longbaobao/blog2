@@ -172,8 +172,8 @@ TypeScript是前端的发展趋势，但是很多同学却缺少实战经验，�
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1oEOrHZjV5G1UkbliQbBJXg 
-提取码：6meo 
+链接：https://pan.baidu.com/s/15AZVtb19845K2S0xhmo2Ww 
+提取码：gxm0 
 复制这段内容后打开百度网盘手机App，操作更方便哦
 </blockquote>
 

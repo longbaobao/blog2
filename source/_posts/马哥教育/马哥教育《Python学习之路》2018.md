@@ -8,7 +8,7 @@ tags:
   - 马哥教育
 categories:
   - Python研发攻城狮
-keywords: 马哥教育《Python学习之路》2018   
+keywords: 马哥教育《Python学习之路》2018,python自动化+Py全栈+爬虫+Ai=python全能工程师-挑战年薪30万
 ---
 『课程目录』:  
 1.1、Python开班仪式及职业指导(1)(P1).mp4
