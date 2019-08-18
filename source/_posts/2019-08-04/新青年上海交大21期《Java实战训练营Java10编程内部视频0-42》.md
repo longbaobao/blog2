@@ -7,7 +7,6 @@ tags:
   - Java研发
   - JDK10
   - 架构师
-  - 开课吧 
 categories:
   - 后端研发攻城狮
 keywords: 新青年上海交大21期《Java实战训练营Java10编程内部视频0-42》
