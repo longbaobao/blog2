@@ -55,8 +55,6 @@ keywords: 若泽数据《Flink生产最佳实践第一季》
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1vSjiR8LegTD8vl_1zDok2A 
-提取码：avaz 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+
 </blockquote>
 

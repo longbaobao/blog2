@@ -36,8 +36,6 @@ keywords: 若泽数据《MySQL主从复制及如何落地大数据平台》
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1Pza-2JtYV-KbtqCYc6xwaw 
-提取码：057v 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+
 </blockquote>
 

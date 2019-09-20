@@ -20,14 +20,14 @@ keywords: 极客时间《Spring Boot与Kubernetes云原生微服务实践》更�
 ┃  07-架构设计和技术栈选型【巨菜站 www.jucaizhan.com】.mp4
 ┃  08-数据和接口模型设计：账户服务【巨菜站 www.jucaizhan.com】.mp4
 ┃  09-数据和接口模型设计：业务服务【巨菜站 www.jucaizhan.com】.mp4
-<!-- more -->   
-<blockquote class="blockquote-center">
-请支持原版！课程官方链：https://time.geekbang.org/course/intro/204</blockquote>
-</blockquote>
 ┃  10-Dubbo、Spring-Cloud和Kubernetes该如何选型（上）【巨菜站 www.jucaizhan.com】.mp4
 ┃  11-Dubbo、Spring-Cloud和Kubernetes该如何选型（中）【巨菜站 www.jucaizhan.com】.mp4
 ┃  12-Dubbo、Spring-Cloud和Kubernetes该如何选型（下）【巨菜站 www.jucaizhan.com】.mp4
 ┃  13-技术中台到底讲什么？【巨菜站 www.jucaizhan.com】.mp4
+<!-- more -->   
+<blockquote class="blockquote-center">
+请支持原版！课程官方链：https://time.geekbang.org/course/intro/204</blockquote>
+</blockquote>
 ┃  14-Staffjoy项目结构组织【巨菜站 www.jucaizhan.com】.mp4
 ┃  15-谷歌为何采用单体仓库（Mono-Repo）？【巨菜站 www.jucaizhan.com】.mp4
 ┃  16-微服务接口参数校验为何重要？【巨菜站 www.jucaizhan.com】.mp4
@@ -55,8 +55,38 @@ keywords: 极客时间《Spring Boot与Kubernetes云原生微服务实践》更�
 ┃  38-JWT有哪两种主要流程？【巨菜站 www.jucaizhan.com】.mp4
 ┃  39-Staffjoy安全认证架构和SSO【巨菜站 www.jucaizhan.com】.mp4
 ┃  40-用户认证代码剖析【巨菜站 www.jucaizhan.com】.mp4
+┃  41-服务调用鉴权代码剖析【巨菜站 www.jucaizhan.com】.mp4
+┃  42-如何设计用户角色鉴权？【巨菜站 www.jucaizhan.com】.mp4
+┃  43-SpringBoot微服务测试该如何分类？【巨菜站 www.jucaizhan.com】.mp4
+┃  44-什么是契约驱动测试？【巨菜站 www.jucaizhan.com】.mp4
+┃  45-什么是测试金字塔？【巨菜站 www.jucaizhan.com】.mp4
+┃  46-单元测试案例分析【巨菜站 www.jucaizhan.com】.mp4
+┃  47-集成测试案例分析【巨菜站 www.jucaizhan.com】.mp4
+┃  48-组件测试案例分析【巨菜站 www.jucaizhan.com】.mp4
+┃  49-Mock-vs-Spy【巨菜站 www.jucaizhan.com】.mp4
+┃  50-何谓生产就绪(Production-Ready)？【巨菜站 www.jucaizhan.com】.mp4
+┃  51-SpringBoot如何实现分环境配置【巨菜站 www.jucaizhan.com】.mp4
+┃  52-Apollo-vs-SpringCloud-Config-vs-K8s-ConfigMap【巨菜站 www.jucaizhan.com】.mp4
+┃  53-CAT-vs-Zipkin-vs-Skywalking(上)【巨菜站 www.jucaizhan.com】.mp4
+┃  54-CAT-vs-Zipkin-vs-Skywalking(下)【巨菜站 www.jucaizhan.com】.mp4
+┃  55-结构化日志和业务审计日志【巨菜站 www.jucaizhan.com】.mp4
+┃  56-集中异常监控和Sentry【巨菜站 www.jucaizhan.com】.mp4
+┃  57-EFK&Prometheus&Skywalking+K8s集成架构【巨菜站 www.jucaizhan.com】.mp4
+┃  58-本地开发部署架构和软件需求【巨菜站 www.jucaizhan.com】.mp4
+┃  59-手工服务部署和测试(上)【巨菜站 www.jucaizhan.com】.mp4
+┃  60-手工服务部署和测试(中)【巨菜站 www.jucaizhan.com】.mp4
+┃  61-手工服务部署和测试(下)【巨菜站 www.jucaizhan.com】.mp4
+┃  62-SkyWalking调用链监控实验【巨菜站 www.jucaizhan.com】.mp4
+┃  63-Docker和DockerCompose简介【巨菜站 www.jucaizhan.com】.mp4
+┃  64-容器镜像构建Dockerfile解析【巨菜站 www.jucaizhan.com】.mp4
+┃  65-DockerCompose服务部署文件剖析【巨菜站 www.jucaizhan.com】.mp4
+┃  66-将Staffjoy部署到本地DockerCompose环境(上)【巨菜站 www.jucaizhan.com】.mp4
+┃  67-将Staffjoy部署到本地DockerCompose环境(下)【巨菜站 www.jucaizhan.com】.mp4
+┃  68-到底什么是云原生架构【巨菜站 www.jucaizhan.com】.mp4
+┃  68-到底什么是云原生架构？【巨菜站 www.jucaizhan.com】.mp4
+┃  69-Kubernetes背景和架构【巨菜站 www.jucaizhan.com】.mp4
+┃  70-Kubernetes有哪些基本概念？(上)【巨菜站 www.jucaizhan.com】.mp4
 ┃  课件及相关文档下载地址【巨菜站 www.jucaizhan.com】.txt
-
 <div class="post-copyright">
     <div class="post-copyright__author">
       <span class="post-copyright-meta">声明：视频资料等内容据来自各大网络交流群以及互联网收集，本网只收取信息整理费用和网站维护费用，版权归原作者所有，本网站不对所涉及的版权问题负法律责任，如作品原作者出版单位认为本网站出现侵权，请即时与本网站联系，将立刻删除处理。 </span>
@@ -64,8 +94,6 @@ keywords: 极客时间《Spring Boot与Kubernetes云原生微服务实践》更�
 </div>
 
 <blockquote class="blockquote-center">
-链接：https://pan.baidu.com/s/1hCvMewq3KCQUBK4t0DNysg 
-提取码：xucx 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+
 </blockquote>
 
